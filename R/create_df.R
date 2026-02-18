@@ -11,6 +11,7 @@
 #' # View the result
 #' View(toy_artikel)
 create_df <- function(mlw_folder) {
+  library(stingr)
   # Alle mlw-Datei im Ordner auflisten
   mlw_files <- list.files(
     path = mlw_folder,
