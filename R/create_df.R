@@ -240,7 +240,7 @@ create_df <- function(mlw_folder) {
           }
           paste(autor_words, collapse = " ")
         },
-        rest_nach_autor = if(autor == "") metadaten else stringr::str_replace(metadaten, paste0("^", fixed(autor)), "") %>% stringr::str_trim(),
+        rest_nach_autor = if(autor == "") metadaten else stringr::str_replace(metadaten, paste0("^", stringr::fixed(autor)), "") %>% stringr::str_trim(),
         werk = { w_match <- stringr::str_extract(rest_nach_autor, "^[^0-9]+"); if(!is.na(w_match)) stringr::str_trim(w_match) else "" },
         zahlen = { z_match <- stringr::str_extract(rest_nach_autor, "\\d.*$"); if(!is.na(z_match)) stringr::str_trim(z_match) else "" }
       ) %>%
