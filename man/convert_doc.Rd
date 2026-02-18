@@ -2,7 +2,7 @@
 % Please edit documentation in R/convert_doc.R
 \name{convert_doc}
 \alias{convert_doc}
-\title{Convert .doc-files containing evidence material to .txt-format}
+\title{Convert .doc-files containing evidence material to .txt-files}
 \usage{
 convert_doc(doc_folder)
 }
