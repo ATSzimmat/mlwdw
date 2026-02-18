@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-![](images/clipboard-520238277.png){width="189"}
+![](images/clipboard-1472973958.png){width="189"}
 
 # mlwdw (MLW Data Wrangling 2026)
 
