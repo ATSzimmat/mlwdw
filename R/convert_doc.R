@@ -1,4 +1,4 @@
-#' Convert .doc-files containing evidence material to .txt-format
+#' Convert .doc-files containing evidence material to .txt-files
 #'
 #' This function converts .doc-files to .txt files using the LibreOffice program.The folder used in the example below is available on the GitHub repository in a folder named "toy". The folder containing the .doc-files you want to convert should be located in your project folder before using this function. Note: This function requires LibreOffice to be located in a folder named "Applications" and that you are currently using a Mac. This is also the reason why the examples contain the comment "## Not run" - do not be confused by this - it merely serves to prevent R from causing errors. Unfortunately, this also means the "Run examples" button won't work - please run the example manually instead. For further informations see https://github.com/ATSzimmat/mlwdw.
 #'
