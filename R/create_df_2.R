@@ -11,7 +11,7 @@
 #' # View the result
 #' View(toy_belege)
 create_df_2 <- function(txt_folder) {
-
+library(purrr)
   # Hilfsfunktion zum Vektorisieren der txt Dateien
   II_vectorize_txt <- function(pfad) {
     # txt-Dateien einlesen
