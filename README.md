@@ -80,6 +80,9 @@ with doc_folder being a path to a certain folder containing .doc-files.
 
 ### Decription
 
+- Please note that executing this function, even just the example code
+  provided below, may take some time.
+
 - This function creates an Evidence-dataset containing the columns
   “langer_beleg”, “pruef_beleg” and “pruef_stelle” from all .txt-files
   located in the specified folder.

@@ -68,6 +68,8 @@ convert_doc(doc_folder = "toy/toy_doc")
 
 ### Decription
 
+-   Please note that executing this function, even just the example code provided below, may take some time.
+
 -   This function creates an Evidence-dataset containing the columns "langer_beleg", "pruef_beleg" and "pruef_stelle" from all .txt-files located in the specified folder.
 
     -   The column "langer_beleg" contains the source texts whereby each line of the dataset only includes one sentence of the respective texts.
