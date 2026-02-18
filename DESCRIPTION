@@ -18,4 +18,6 @@ Imports:
     purrr,
     readr,
     stringr,
-    tidyr
+    tidyr,
+    tidyselect,
+    tools
