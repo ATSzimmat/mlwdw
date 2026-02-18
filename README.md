@@ -1,5 +1,5 @@
 
-<img src="images/clipboard-520238277.png" width="189" />
+<img src="images/clipboard-1472973958.png" width="198" />
 
 # mlwdw (MLW Data Wrangling 2026)
 
@@ -78,7 +78,7 @@ with doc_folder being a path to a certain folder containing .doc-files.
 
 ## *create_df_2*
 
-### Decription
+### Description
 
 - Please note that executing this function, even just the example code
   provided below, may take some time.
