@@ -10,6 +10,8 @@ Welcome to the R package mlwdw – a new tool for organizing the data generated 
 
 The primary goal of the package is to organize the articles of the MLW into a structured tabular format and to supplement and extend the often rather short quotations provided as evidence in the articles using the source texts from which these quotations were taken. This was intended, above all, to provide users of this data with greater transparency and to enable the application of machine learning methods to the data in various research contexts.
 
+Please note: The example files in the toy folder are copyrighted by the Bavarian Academy of Sciences/Medieval Latin Dictionary and are licensed under the Creative Commons CC-BY-SA 4.0 license.
+
 # Installation
 
 You can install the current version of mlwdw by executing this in R:

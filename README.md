@@ -16,6 +16,10 @@ above all, to provide users of this data with greater transparency and
 to enable the application of machine learning methods to the data in
 various research contexts.
 
+Please note: The example files in the toy folder are copyrighted by the
+Bavarian Academy of Sciences/Medieval Latin Dictionary and are licensed
+under the Creative Commons CC-BY-SA 4.0 license.
+
 # Installation
 
 You can install the current version of mlwdw by executing this in R:
